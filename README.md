@@ -1,5 +1,13 @@
-안녕하세요.
-데이터사이언스, A.I.를 목표로 두고 있습니다.
+## INTRODUCE
+
+어플리케이션 제작과 인공지능 분야에 관심이 많은 인문계열 공대생입니다.
+
+## STACK
+
+- Python
+- Swift
+
+## SNS LINK
 
 <a href="https://dongwookang.myportfolio.com/work">
     <img 
