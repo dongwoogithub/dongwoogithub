@@ -6,6 +6,7 @@
 
 - Python
 - Swift
+- Adobe Premiere / Photoshop / After Effect
 
 ## SNS LINK
 
