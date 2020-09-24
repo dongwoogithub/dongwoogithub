@@ -12,9 +12,8 @@
         style="height : auto; margin-left : 30px; margin-right : 30px;"/>
 </a>
     
-    
 <a href="https://www.instagram.com/ddongwookang/">
     <img 
         src="http://img.shields.io/badge/-Instagram-white?style=for-the-badge&link=https://www.instagram.com/ddongwookang/"
         style="height : auto; margin-left : 30px; margin-right : 30px;"/>
-</a> 개인 일상 SNS
+</a>
