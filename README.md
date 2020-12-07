@@ -15,10 +15,10 @@
         src="http://img.shields.io/badge/-Portfolio-0082FC?style=for-the-badge&link=https://dongwookang.myportfolio.com/work"
         style="height : auto; margin-left : 30px; margin-right : 30px;"/>
 </a>
-<a href="https://dongwooblog.tistory.com/">
+<a href="https://velog.io/@dongwooxxi">
     <img 
-        src="http://img.shields.io/badge/-StudyBlog-88CE02?style=for-the-badge&link=https://dongwooblog.tistory.com/"
-        style="height : auto; margin-left : 30px; margin-right : 30px;"/>
+        src="https://media.vlpt.us/images/velog/post/ebf87853-b6b7-47af-a659-d97fb39e66b0/velog_logo.png"
+        style="width : 100px; height : 100px;"/ >
 </a>
     
 <a href="https://www.instagram.com/ddongwookang/">
