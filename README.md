@@ -11,4 +11,6 @@ Study blog : https://velog.io/@dongwooxxi (이사중🏠)
 - Swift
 - Adobe Premiere / Photoshop / After Effect
 - R
+- TOEIC 920 (곧 사라짐)
+- OPIC IM2
 
