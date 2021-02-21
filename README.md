@@ -1,9 +1,9 @@
 ## INTRODUCE
 
-데이터 엔지니어 / **인공지능** / UIUX 디자인 잡종 공대생✌️
+Data Engineer / **A.I.** / UIUX Design ✌️
 
 
-Study blog : https://velog.io/@dongwooxxi (이사중🏠)
+Study blog : https://velog.io/@dongwooxxi (I'm moving.🏠)
 
 ## STACK
 
@@ -11,6 +11,6 @@ Study blog : https://velog.io/@dongwooxxi (이사중🏠)
 - Swift
 - Adobe Premiere / Photoshop / After Effect
 - R
-- TOEIC 920 (곧 사라짐)
+- TOEIC 920 (disappering soon...)
 - OPIC IM2
 
