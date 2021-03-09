@@ -6,7 +6,7 @@ Dustin Kang (🇺🇸)
 Data Engineer / **A.I.** / UIUX Design ✌️
 
 
-Study blog : https://velog.io/@dongwooxxi (I'm moving.🏠)
+Study blog : https://velog.io/@dustin (I'm moving.🏠)
 
 ## STACK
 
