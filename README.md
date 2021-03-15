@@ -12,7 +12,7 @@ Study blog : https://velog.io/@dustin (I'm moving.🏠)
 
 - Python (Framework : TensorFlow, OpenCV)
 - Swift
-- Adobe Premiere / Photoshop / After Effect
+- Adobe Premiere / Photoshop / After Effect / XD
 - R
 - TOEIC 920 (disappering soon...)
 - OPIC IM2
