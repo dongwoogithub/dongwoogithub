@@ -14,6 +14,5 @@ Study blog : https://velog.io/@dustin
 - Swift
 - Adobe Premiere / Photoshop / After Effect / XD
 - R
-- TOEIC 920 (disappering soon...)
 - OPIC IM2
 - Computer CS (Algorithm, OS...)
